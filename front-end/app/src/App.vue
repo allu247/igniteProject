@@ -1,21 +1,24 @@
 <template>
     <div id="app">
 
-        <UploadFiles/>
+        <TopicNavbar />
+        <router-view/>
 
     </div>
 </template>
 
 <script>
 
-    import UploadFiles from './components/UploadFile.vue';
+    import TopicNavbar from './components/layout/TopicNavbar.vue';
+
     export default {
         name: "app",
         components: {
-            UploadFiles
+            TopicNavbar
         }
-
     }
+
+
 </script>
 
 <style>

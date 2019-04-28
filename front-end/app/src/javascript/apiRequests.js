@@ -17,6 +17,19 @@ async function postRequest(url, data) {
     return response
 }
 
+async function patchRequest(url, data) {
+    let response = await axios.patch(apiUrl + url,
+        data);
+
+    return response
+}
+
+async function deleteRequest(url) {
+    let response = await axios.delete(apiUrl + url);
+
+    return response
+}
+
 
 
 export default {
@@ -29,6 +42,13 @@ export default {
     postRequestToApi(url, data) {
         return postRequest(url, data);
     },
+
+    deleteRequestToApi(url) {
+        return deleteRequest(url);
+    },
+    patchRequestToApi(url, data) {
+      return patchRequest(url, data);
+    }
 
 
 }
