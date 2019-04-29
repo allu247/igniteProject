@@ -19,7 +19,7 @@
         </div>
 
         <div class="col-lg-9 col-md-10 col-sm-12 px-0">
-          <div class="post-list-item my-2 p-2 text-left" v-for="(data, index) in response" :key='data.id'>
+          <div class="post-list-item my-2 p-2 text-align:center" v-for="(data, index) in response" :key='data.id'>
             <h3>Title: {{data.title}}</h3>
             <p>Topic: {{data.topic}}</p>
             <p>Author: {{data.author}}</p>

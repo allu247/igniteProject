@@ -3,12 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="e2571395-182c-412e-bb16-6e441a929df5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../back-end/ignite/src/main/java/com/example/ignite/IgniteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back-end/ignite/src/main/java/com/example/ignite/IgniteApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/javascript/apiRequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/javascript/apiRequests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dist/css/app.023670e5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dist/js/app.d0300644.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dist/js/app.d0300644.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/1b72c74389eda8f75466dcb038830f6d.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/1b72c74389eda8f75466dcb038830f6d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/309179acfc052a57af59652a0d5851e6.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/309179acfc052a57af59652a0d5851e6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/489a9bb02991ffd5f5bed08b377c1e8f.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/489a9bb02991ffd5f5bed08b377c1e8f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/801fa9da23df6107ebfbb430ef2c9144.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/babel-loader/801fa9da23df6107ebfbb430ef2c9144.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/1241e386bc5b473159b023dcb1b5b72c.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/1241e386bc5b473159b023dcb1b5b72c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/35b00f72f372d4aa1d222ec016a763a5.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/35b00f72f372d4aa1d222ec016a763a5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/36fe1a778087a6e20a5dc0a1848a9148.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/36fe1a778087a6e20a5dc0a1848a9148.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/3e5eac25fd3b36d77bc790d44cdc7333.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/3e5eac25fd3b36d77bc790d44cdc7333.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/4304be20249e3f71f1d460331257a268.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/4304be20249e3f71f1d460331257a268.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/48e9f3d9aa2784374c718c70903de058.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/48e9f3d9aa2784374c718c70903de058.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/9b5b20263950290ac02537f77ac43e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/9b5b20263950290ac02537f77ac43e2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/b0c4c8b866045e85de1066e8a620d4ee.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/b0c4c8b866045e85de1066e8a620d4ee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/b61c9fbc90f55221e06f76171d793789.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/b61c9fbc90f55221e06f76171d793789.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/cd416284582c77492196a765d48f0250.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/cd416284582c77492196a765d48f0250.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/e24ea9b9a978f77fd740e455d9346fd0.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/e24ea9b9a978f77fd740e455d9346fd0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/f2319afff0cb6f0c9adbf1ced6c5463d.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/f2319afff0cb6f0c9adbf1ced6c5463d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/f9220f49b7e98142e08fabd48d2eda3c.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/.cache/vue-loader/f9220f49b7e98142e08fabd48d2eda3c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/components/viewBooks.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/viewBooks.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,15 +40,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -43,10 +51,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/components/viewBooks.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="170">
               <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -81,13 +98,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/components/addBook.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="1649">
               <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/javascript/apiRequests.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -137,7 +154,6 @@
         <option value="$PROJECT_DIR$/app/src/components/UploadFile.vue" />
         <option value="$PROJECT_DIR$/app/src/components/UserActivities.vue" />
         <option value="$PROJECT_DIR$/app/src/router.js" />
-        <option value="$PROJECT_DIR$/app/src/components/viewBooks.vue" />
         <option value="$PROJECT_DIR$/app/src/App.vue" />
         <option value="$PROJECT_DIR$/app/package.json" />
         <option value="$PROJECT_DIR$/app/src/main.js" />
@@ -145,6 +161,7 @@
         <option value="$PROJECT_DIR$/app/src/components/editBook.vue" />
         <option value="$PROJECT_DIR$/app/src/components/addBook.vue" />
         <option value="$PROJECT_DIR$/app/src/javascript/apiRequests.js" />
+        <option value="$PROJECT_DIR$/app/src/components/viewBooks.vue" />
       </list>
     </option>
   </component>
@@ -155,8 +172,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1128" />
-    <option name="y" value="117" />
+    <option name="x" value="1126" />
+    <option name="y" value="115" />
     <option name="width" value="940" />
     <option name="height" value="745" />
   </component>
@@ -166,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,30 +195,12 @@
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +209,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../back-end/ignite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -279,16 +276,17 @@
       <workItem from="1556462999223" duration="575000" />
       <workItem from="1556483183686" duration="3080000" />
       <workItem from="1556531921303" duration="6305000" />
+      <workItem from="1556566685616" duration="1243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56831000" />
+    <option name="totallyTimeSpent" value="58074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1671141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16912752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -335,17 +333,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/components/UploadFile.vue" />
-    <entry file="file://$PROJECT_DIR$/app/src/components/viewBooks.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/components/layout/TopicNavbar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -361,25 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/components/addBook.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="1649">
           <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/babel.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -397,27 +405,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/javascript/apiRequests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/components/viewBooks.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
         </state>
       </provider>
     </entry>
