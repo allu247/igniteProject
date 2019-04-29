@@ -33,7 +33,7 @@ public class IgniteApplication {
         // *** URL below needs to match the Vue client URL and port ***
         // FIXME: local for development, amazonaws for deployment
         config.setAllowedOrigins(Arrays.asList("http://localhost:8080",
-                "http://teadustood.s3-website.eu-north-1.amazonaws.com"));
+                "http://ignite-frontend.s3-website-us-east-1.amazonaws.com"));
         config.setAllowedMethods(Collections.singletonList("*"));
         config.setAllowedHeaders(Collections.singletonList("*"));
         source.registerCorsConfiguration("/**", config);

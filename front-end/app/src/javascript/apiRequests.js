@@ -1,5 +1,6 @@
 import axios from 'axios';
-const apiUrl = 'http://localhost:8090';
+//const apiUrl = 'http://localhost:8090';
+const apiUrl = 'http://ec2-54-196-81-248.compute-1.amazonaws.com:8090';
 
 
 async function getRequest(url) {
