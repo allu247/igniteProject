@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b563c3f-edc5-4c1b-86ff-7baeef5b5614" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/ignite/src/main/java/com/example/ignite/IgniteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/ignite/src/main/java/com/example/ignite/IgniteApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/app/src/javascript/apiRequests.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/app/src/javascript/apiRequests.js" afterDir="false" />
-    </list>
+    <list default="true" id="0b563c3f-edc5-4c1b-86ff-7baeef5b5614" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1128" />
-    <option name="y" value="117" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1127" />
+    <option name="y" value="116" />
     <option name="width" value="940" />
     <option name="height" value="745" />
   </component>
@@ -39,14 +31,24 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="igniteProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="igniteProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/front-end" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/back-end/ignite" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,15 +96,15 @@
       <workItem from="1555691968786" duration="1221000" />
       <workItem from="1555872793802" duration="25000" />
       <workItem from="1555873039232" duration="5000" />
-      <workItem from="1556490747840" duration="2582000" />
+      <workItem from="1556490747840" duration="3753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5022000" />
+    <option name="totallyTimeSpent" value="6193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14563759" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
